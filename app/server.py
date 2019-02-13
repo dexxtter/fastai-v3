@@ -9,7 +9,7 @@ from fastai import *
 from fastai.vision import *
 
 
-raise ValueError('A very specific bad thing happened.')
+raise ValueError('A very specific bad thing happened AGAIN.')
 export_file_url = 'https://www.dropbox.com/s/v6cuuvddq73d1e0/export.pkl?raw=1'
 export_file_name = 'export.pkl'
 
